@@ -22,7 +22,7 @@ In this lab, you become familiar with running virtual machines (VMs) on Red Hat^
 * Access the VM console
 * Gain experience using the VM console
 
-== Difference betwen a VM and VMI
+== Difference between a VM and VMI
 
 In general, a *virtual machine (VM)* is a virtual environment that simulates the resources of a physical machine, which include CPU, memory, network interfaces, and storage. Typically, VMs maintain application state and persistent data, similar to the StatefulSet pods.
 
